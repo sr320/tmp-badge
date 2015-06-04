@@ -12,7 +12,7 @@ These are small signals that recognise your efforts to improve the reproducibili
 
 Badges will be awarded to individual researchers who self-certify by listing URLs of their research products as evidence of their eligibility for a badge. 
 
-###Submit your evidence for each item by completing **[this survey](http://goo.gl/forms/jm08DOJ2EI)** 
+###Submit your evidence completing **[this survey](http://goo.gl/forms/jm08DOJ2EI)** 
 
 Everyone will get a badge! Badges will be customized based on your total score as described in the table below.
 
@@ -42,7 +42,7 @@ One or more [Online Lab Notebooks](https://en.wikipedia.org/wiki/Open_notebook_s
 An account at one or more web-based code-hosting service (eg. [GitHub](https://github.com)/[BitBucket](https://BitBucket.com)/[GitLab](https://gitlab.com) or similar) | 1 pt |
 |**Category Three - Open Access Products** | |
 One or more grant proposals & data management plans online & Open Access | 1 pt |
-Preprint in [arXiv](http://www.arXiv.org), [bioarXiv](http://www.bioarXiv.org), [PeerJ](http://www.PeerJ.com) Preprint | 1 pt each |
+Preprint in [arXiv](http://www.arXiv.org), [biorXiv](/http://biorxiv.org/), [PeerJ](http://www.PeerJ.com) Preprint | 1 pt each |
 Green Open Access copies of publications in a discipline or institutional repository | 1 pt each |
 >75% of papers in last two years are Open Access | 5 pts |
 >50% of papers in last two years are Open Access | 2 pts |
