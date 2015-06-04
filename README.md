@@ -1,7 +1,7 @@
 
 ## What are Reproducible Research & Open Science Badges?
 
-These are small signals that recognise your efforts to improve the reproducibility and openness of your research. Inspiration from these comes from the [Open Science Framework Badges to Acknowledge Open Practices Project](https://osf.io/tvyxz/). The goals of these badges are to:
+These are small signals that recognize your efforts to improve the reproducibility and openness of your research. Inspiration from these comes from the [Open Science Framework Badges to Acknowledge Open Practices Project](https://osf.io/tvyxz/). The goals of these badges are to:
 
 - have a low-stakes program to raise the visibility on campus of people doing reproducible research and open science
 - provide some simple incentives to working reproducibly and in the open
