@@ -1,4 +1,22 @@
 
+## What are Reproducible Research & Open Science Badges?
+
+These are small signals that recognise your efforts to improve the reproducibility and openness of your research. Inspiration from these comes from the [Open Science Framework Badges to Acknowledge Open Practices Project](https://osf.io/tvyxz/). The goals of these badges are to:
+
+- have a low-stakes program to raise the visibility on campus of people doing reproducible research and open science
+- provide some simple incentives to working reproducibly and in the open
+- get researchers who are new to these ideas onto a trajectory of improvement
+- communicate to people the key principles and tools for reproducible research and open science 
+
+# How do I get a Reproducible Research & Open Science Badge?
+
+Badges will be awarded to individual researchers who self-certify by listing URLs of their research products as evidence of their eligibility for a badge. 
+
+###Submit your evidence for each item by completing **[this survey](http://goo.gl/forms/jm08DOJ2EI)** 
+
+Everyone will get a badge! Badges will be customized based on your total score as described in the table below.
+
+
 ## Reproducible Research & Open Science Badge Criteria
 | Criterion | score |
 |-----------|-------|
@@ -31,13 +49,20 @@ Green Open Access copies of publications in a discipline or institutional reposi
 [Publons](https://publons.com/) and/or [PubPeer](http://www.pubpeer.com/) account | 1 pt |
 An [ORCID](http://orcid.org/) ID | 1 pt |
 
------
 
- Now add up your score and find out what level you're at:
+## What do the Badges look like?
+There will two forms for the badges, a generic one: ![starter](https://img.shields.io/badge/RROS%20Badge--green.svg). Based on your point value as 
+shown in the table below, you can share a personalized badge (ie ![silver](https://img.shields.io/badge/RROS%20Badge-56-yellow.svg)).  
 
 | Level   | Criteria   |
 |-------- |  --------- |
 | Gold    | 50 points  |
 | Silver  | 25 points |
 | Bronze  | 10 points  |
+
+## How do I get my embed code?
+Eventually we will magically provide it - for now see this page.
+
+
+
 
