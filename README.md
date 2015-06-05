@@ -53,14 +53,13 @@ One or more [Online Lab Notebooks](https://en.wikipedia.org/wiki/Open_notebook_s
 | Criterion | score |
 |-----------|-------|
 |**Category Three - Open Access Products** | |
-One or more grant proposals & data management plans online & Open Access | 1 pt |
-Preprint in [arXiv](http://www.arXiv.org), [biorXiv](/http://biorxiv.org/), [PeerJ](http://www.PeerJ.com) Preprint | 1 pt each |
-Green Open Access copies of publications in a discipline or institutional repository | 1 pt each |
->75% of papers in last two years are Open Access | 5 pts |
->50% of papers in last two years are Open Access | 2 pts |
-[Publons](https://publons.com/) and/or [PubPeer](http://www.pubpeer.com/) account | 1 pt |
 An [ORCID](http://orcid.org/) ID | 1 pt |
-
+Preprint in [arXiv](http://www.arXiv.org), [biorXiv](/http://biorxiv.org/), [PeerJ](http://www.PeerJ.com) Preprint | 1 pt each |
+One or more grant proposals & data management plans online & Open Access | 1 pt |
+Green Open Access copies of publications in a discipline or institutional repository | 1 pt each |
+[Publons](https://publons.com/) and/or [PubPeer](http://www.pubpeer.com/) account | 1 pt |
+>50% of papers in last two years are Open Access | 2 pts |
+>75% of papers in last two years are Open Access | 5 pts |
 
 ## What do the Badges look like?
 There will two forms for the badges, a generic one: ![starter](https://img.shields.io/badge/RROS%20Badge--green.svg). Based on your point value as 
