@@ -22,6 +22,7 @@ Everyone will get a badge! Badges will be customized based on your total score a
 
 
 ## Reproducible Research & Open Science Badge Criteria
+
 | Criterion | score |
 |-----------|-------|
 |**Category One - Reproducibility** ||
@@ -37,16 +38,20 @@ Have the substantive results of your publication reproduced by someone else usin
 | Criterion | score |
 |-----------|-------|
 |**Category Two - Open Data and Code** | |
-Code is developed in one or more [GitHub](https://github.com)/[BitBucket](https://BitBucket.com)/[GitLab](https://gitlab.com) or similar version-controlled open code repository | 1 pt |
-Code has one or more tests | 1 pt |
-One or more code repository has an open license (eg. MIT/BSD/GPL2 etc.) | 1 pt |
-One or more code repository has a persistent URL (eg. DOI) to a specific release | 1 pt |
+An account at one or more web-based code-hosting service (eg. [GitHub](https://github.com)/[BitBucket](https://BitBucket.com)/[GitLab](https://gitlab.com) or similar) | 1 pt |
+One or more sets of raw data are in [open formats](https://en.wikipedia.org/wiki/Open_format) (eg. CSV, txt, etc.) | 1 pt |
 One or more datasets in an institutional repository (not personal webpage) | 1 pt |
 One or more datasets in [Figshare](http://www.Figshare.com)/[Zenodo](http://www.Zenodo.org) or domain specific open data repository that issues persistent URLs | 1 pt |
+Code is developed in one or more [GitHub](https://github.com)/[BitBucket](https://BitBucket.com)/[GitLab](https://gitlab.com) or similar version-controlled open code repository | 1 pt |
+One or more code repository has a persistent URL (eg. DOI) to a specific release | 1 pt |
+One or more code repository has an open license (eg. MIT/BSD/GPL2 etc.) | 1 pt |
+Code has one or more tests | 1 pt |
 One or more sets of raw data are published as soon as generated | 5 pts |
-One or more sets of raw data are in [open formats](https://en.wikipedia.org/wiki/Open_format) (eg. CSV, txt, etc.) | 1 pt |
 One or more [Online Lab Notebooks](https://en.wikipedia.org/wiki/Open_notebook_science) | 2 pts |
-An account at one or more web-based code-hosting service (eg. [GitHub](https://github.com)/[BitBucket](https://BitBucket.com)/[GitLab](https://gitlab.com) or similar) | 1 pt |
+
+
+| Criterion | score |
+|-----------|-------|
 |**Category Three - Open Access Products** | |
 One or more grant proposals & data management plans online & Open Access | 1 pt |
 Preprint in [arXiv](http://www.arXiv.org), [biorXiv](/http://biorxiv.org/), [PeerJ](http://www.PeerJ.com) Preprint | 1 pt each |
