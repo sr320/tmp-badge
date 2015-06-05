@@ -43,8 +43,8 @@ One or more sets of raw data are in [open formats](https://en.wikipedia.org/wiki
 One or more datasets in an institutional repository (not personal webpage) | 1 pt |
 One or more datasets in [Figshare](http://www.Figshare.com)/[Zenodo](http://www.Zenodo.org) or domain specific open data repository that issues persistent URLs | 1 pt |
 Code is developed in one or more [GitHub](https://github.com)/[BitBucket](https://BitBucket.com)/[GitLab](https://gitlab.com) or similar version-controlled open code repository | 1 pt |
-One or more code repository has a persistent URL (eg. DOI) to a specific release | 1 pt |
-One or more code repository has an open license (eg. MIT/BSD/GPL2 etc.) | 1 pt |
+One or more code repository has a persistent URL (eg. [DOI](http://www.doi.org/)) to a specific release | 1 pt |
+One or more code repository has an open license (eg. [MIT](http://choosealicense.com/licenses/mit/)/[BSD](http://choosealicense.com/licenses/isc/)/[GPLv2](http://choosealicense.com/licenses/gpl-2.0/) etc.) | 1 pt |
 Code has one or more tests | 1 pt |
 One or more sets of raw data are published as soon as generated | 5 pts |
 One or more [Online Lab Notebooks](https://en.wikipedia.org/wiki/Open_notebook_science) | 2 pts |
@@ -55,7 +55,7 @@ One or more [Online Lab Notebooks](https://en.wikipedia.org/wiki/Open_notebook_s
 |**Category Three - Open Access Products** | |
 An [ORCID](http://orcid.org/) ID | 1 pt |
 Preprint in [arXiv](http://www.arXiv.org), [biorXiv](/http://biorxiv.org/), [PeerJ](http://www.PeerJ.com) Preprint | 1 pt each |
-One or more grant proposals & data management plans online & Open Access | 1 pt |
+One or more grant proposals & [data management plans](http://guides.lib.washington.edu/content.php?pid=259952&sid=2660743) online & Open Access | 1 pt |
 Green Open Access copies of publications in a discipline or institutional repository | 1 pt each |
 [Publons](https://publons.com/) and/or [PubPeer](http://www.pubpeer.com/) account | 1 pt |
 >50% of papers in last two years are Open Access | 2 pts |
