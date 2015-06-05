@@ -100,7 +100,7 @@ Would generate this badge ![75](https://img.shields.io/badge/RROS%20Badge-75-yel
  ![silver](https://img.shields.io/badge/Level-Silver-lightgrey.svg)
 
 ```
-<a href="http://htmlpreview.github.io/?https://github.com/sr320/tmp-badge/blob/master/rros-badge-web.html"> <img src="https://img.shields.io/badge/RROS%20Badge-30-silver.svg" alt="ROS Badge"></a>
+<a href="http://htmlpreview.github.io/?https://github.com/sr320/tmp-badge/blob/master/rros-badge-web.html"> <img src="https://img.shields.io/badge/RROS%20Badge-30-lightgrey.svg" alt="ROS Badge"></a>
 ```
 
 Would generate this badge ![30](https://img.shields.io/badge/RROS%20Badge-30-lightgrey.svg).  Just change `30` in the code to reflect your point value. 
