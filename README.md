@@ -63,7 +63,7 @@ Green Open Access copies of publications in a discipline or institutional reposi
 
 ## What do the Badges look like?
 There will two forms for the badges, a generic one: ![starter](https://img.shields.io/badge/RROS%20Badge--green.svg). Based on your point value as 
-shown in the table below, you can share a personalized badge (ie ![silver](https://img.shields.io/badge/RROS%20Badge-56-yellow.svg)).  Thanks to <shields.io> for providing this service! 
+shown in the table below, you can share a personalized badge (ie ![silver](https://img.shields.io/badge/RROS%20Badge-56-yellow.svg)).  Thanks to <http://shields.io/> for providing this service! 
 
 | Level   | Criteria   |
 |-------- |  --------- |
@@ -74,5 +74,43 @@ shown in the table below, you can share a personalized badge (ie ![silver](https
 ## How do I get my embed code?
 Well we are working on making it more automated however you can role your own using this tutorial. 
 
+---
+Anyone that takes [this survey](https://docs.google.com/forms/d/1WqeQRmPi42pD-OqHxTqfA7aWqgPrkNjV8PTixA-m2sI/viewform?c=0&w=1) is welcome to use this badge: ![starter](https://img.shields.io/badge/RROS%20Badge--green.svg) !  
+
+Here is the code
+
+```
+<a href="http://htmlpreview.github.io/?https://github.com/sr320/tmp-badge/blob/master/rros-badge-web.html"> <img src="https://img.shields.io/badge/RROS%20Badge--green.svg" alt="ROS Badge"></a>
+```
+
+---
+
+
+To generate a custom badge you will have to tweak the code a bit. Below are three examples for ![gold](https://img.shields.io/badge/Level-Gold-yellow.svg), ![silver](https://img.shields.io/badge/Level-Silver-lightgrey.svg), and ![bronze](https://img.shields.io/badge/Level-Bronze-yellowgreen.svg).
+
+ ![gold](https://img.shields.io/badge/Level-Gold-yellow.svg)
+
+```
+<a href="http://htmlpreview.github.io/?https://github.com/sr320/tmp-badge/blob/master/rros-badge-web.html"> <img src="https://img.shields.io/badge/RROS%20Badge-75-yellow.svg" alt="ROS Badge"></a>
+```
+
+Would generate this badge ![75](https://img.shields.io/badge/RROS%20Badge-75-yellow.svg).  Just change `75` in the code to reflect your point value. 
+
+ ![silver](https://img.shields.io/badge/Level-Silver-lightgrey.svg)
+
+```
+<a href="http://htmlpreview.github.io/?https://github.com/sr320/tmp-badge/blob/master/rros-badge-web.html"> <img src="https://img.shields.io/badge/RROS%20Badge-30-silver.svg" alt="ROS Badge"></a>
+```
+
+Would generate this badge ![30](https://img.shields.io/badge/RROS%20Badge-30-lightgrey.svg).  Just change `30` in the code to reflect your point value. 
+
+
+ ![bronze](https://img.shields.io/badge/Level-Bronze-yellowgreen.svg)
+
+```
+<a href="http://htmlpreview.github.io/?https://github.com/sr320/tmp-badge/blob/master/rros-badge-web.html"> <img src="https://img.shields.io/badge/RROS%20Badge-10-yellowgreen.svg" alt="ROS Badge"></a>
+```
+
+Would generate this badge ![10](https://img.shields.io/badge/RROS%20Badge-10-yellowgreen.svg).  Just change `10` in the code to reflect your point value. 
 
 
