@@ -14,7 +14,7 @@ These are small signals that recognize your efforts to improve the reproducibili
 
 # How do I get a Reproducible Research & Open Science Badge?
 
-Badges will be awarded to individual researchers who self-certify by listing URLs of their research products as evidence of their eligibility for a badge. 
+Badges will be awarded to individual researchers who self-certify by listing URLs of their research products as evidence of their eligibility for a badge. The criterion is ordered within each Category in order of difficulty.
 
 ###Submit your evidence completing **[this survey](http://goo.gl/forms/jm08DOJ2EI)** 
 
@@ -25,14 +25,17 @@ Everyone will get a badge! Badges will be customized based on your total score a
 | Criterion | score |
 |-----------|-------|
 |**Category One - Reproducibility** ||
-Publication has complementing code & data repositories that can be used to reproduce results | 4 pts each |
-Code repositories have detailed, plain-English README files describing the computational environment and dependencies (including version numbers) to facilitate independent reproduction | 1 pt each |
-Computational environment captured (ie. in a virtual machine image/dockerfile/vagrantfile, etc.) in one or more [research compendia](http://biostats.bepress.com/bioconductor/paper2/) | 1 pt |
 Primary software tools for research are [open source](https://en.wikipedia.org/wiki/Open_source) | 1 pt
 Submit your code for review | 2 pts each |
 Perform code review for someone else | 2 pts each |
-Have the substantive results of your publication reproduced by someone else using your code and data | 2 pts each
+Code repositories have detailed, plain-English README files describing the computational environment and dependencies (including version numbers) to facilitate independent reproduction | 1 pt each
 Perform a reproducibility review for someone else | 2 pts each |
+Publication has complementing code & data repositories that can be used to reproduce results | 4 pts each |
+Computational environment captured (ie. in a virtual machine image/dockerfile/vagrantfile, etc.) in one or more [research compendia](http://biostats.bepress.com/bioconductor/paper2/) | 1 pt |
+Have the substantive results of your publication reproduced by someone else using your code and data | 2 pts each
+
+| Criterion | score |
+|-----------|-------|
 |**Category Two - Open Data and Code** | |
 Code is developed in one or more [GitHub](https://github.com)/[BitBucket](https://BitBucket.com)/[GitLab](https://gitlab.com) or similar version-controlled open code repository | 1 pt |
 Code has one or more tests | 1 pt |
