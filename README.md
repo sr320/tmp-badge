@@ -1,4 +1,8 @@
 
+*Quick Links*: 1) [**Take Survey**](https://docs.google.com/forms/d/1WqeQRmPi42pD-OqHxTqfA7aWqgPrkNjV8PTixA-m2sI/viewform?c=0&w=1)   2) [**View Results**](https://t.co/XGt5D8k6Hb)    3) [**Get Badge!**](badger)    4) [Provide Feedback](github) 
+
+---
+
 ## What are Reproducible Research & Open Science Badges?
 
 These are small signals that recognize your efforts to improve the reproducibility and openness of your research. Inspiration from these comes from the [Open Science Framework Badges to Acknowledge Open Practices Project](https://osf.io/tvyxz/). The goals of these badges are to:
@@ -52,7 +56,7 @@ An [ORCID](http://orcid.org/) ID | 1 pt |
 
 ## What do the Badges look like?
 There will two forms for the badges, a generic one: ![starter](https://img.shields.io/badge/RROS%20Badge--green.svg). Based on your point value as 
-shown in the table below, you can share a personalized badge (ie ![silver](https://img.shields.io/badge/RROS%20Badge-56-yellow.svg)).  
+shown in the table below, you can share a personalized badge (ie ![silver](https://img.shields.io/badge/RROS%20Badge-56-yellow.svg)).  Thanks to <shields.io> for providing this service! 
 
 | Level   | Criteria   |
 |-------- |  --------- |
@@ -61,8 +65,7 @@ shown in the table below, you can share a personalized badge (ie ![silver](https
 | Bronze  | 10 points  |
 
 ## How do I get my embed code?
-Eventually we will magically provide it - for now see this page.
-
+Well we are working on making it more automated however you can role your own using this tutorial. 
 
 
 
