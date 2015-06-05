@@ -1,5 +1,5 @@
 
-### *Quick Links*: 1) [**Take Survey**](https://docs.google.com/forms/d/1WqeQRmPi42pD-OqHxTqfA7aWqgPrkNjV8PTixA-m2sI/viewform?c=0&w=1)   2) [**View Results**](https://t.co/XGt5D8k6Hb)    3) [**Get Badge!**](badger)    4) [Provide Feedback](https://github.com/sr320/tmp-badge/issues/new) 
+### *Quick Links*: 1) [**Take Survey**](https://docs.google.com/forms/d/1WqeQRmPi42pD-OqHxTqfA7aWqgPrkNjV8PTixA-m2sI/viewform?c=0&w=1)   2) [**View Results**](https://t.co/XGt5D8k6Hb)    3) <a href="#badge">**Get Badge!**</a> 4) [Provide Feedback](https://github.com/sr320/tmp-badge/issues/new) 
 
 ---
 
@@ -71,6 +71,7 @@ shown in the table below, you can share a personalized badge (ie ![silver](https
 | Silver  | 25 points |
 | Bronze  | 10 points  |
 
+<a name="badge"></a> 
 ## How do I get my embed code?
 Well we are working on making it more automated however you can role your own using this tutorial. 
 
